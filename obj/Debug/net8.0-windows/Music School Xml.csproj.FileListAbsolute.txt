@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Music School Sql\Music School Sql\obj\Debug\net8.0-windows\Music_School_Xml.Form1.resources
+C:\Users\User\source\repos\Music School Sql\Music School Sql\obj\Debug\net8.0-windows\Music School Xml.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Music School Sql\Music School Sql\obj\Debug\net8.0-windows\Music School Xml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Music School Sql\Music School Sql\obj\Debug\net8.0-windows\Music School Xml.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Music School Sql\Music School Sql\obj\Debug\net8.0-windows\Music School Xml.AssemblyInfo.cs
+C:\Users\User\source\repos\Music School Sql\Music School Sql\obj\Debug\net8.0-windows\Music School Xml.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Music School Sql\Music School Sql\bin\Debug\net8.0-windows\Music School Xml.exe
+C:\Users\User\source\repos\Music School Sql\Music School Sql\bin\Debug\net8.0-windows\Music School Xml.deps.json
+C:\Users\User\source\repos\Music School Sql\Music School Sql\bin\Debug\net8.0-windows\Music School Xml.runtimeconfig.json
+C:\Users\User\source\repos\Music School Sql\Music School Sql\bin\Debug\net8.0-windows\Music School Xml.dll
+C:\Users\User\source\repos\Music School Sql\Music School Sql\bin\Debug\net8.0-windows\Music School Xml.pdb
+C:\Users\User\source\repos\Music School Sql\Music School Sql\obj\Debug\net8.0-windows\Music School Xml.dll
+C:\Users\User\source\repos\Music School Sql\Music School Sql\obj\Debug\net8.0-windows\refint\Music School Xml.dll
+C:\Users\User\source\repos\Music School Sql\Music School Sql\obj\Debug\net8.0-windows\Music School Xml.pdb
+C:\Users\User\source\repos\Music School Sql\Music School Sql\obj\Debug\net8.0-windows\Music School Xml.genruntimeconfig.cache
+C:\Users\User\source\repos\Music School Sql\Music School Sql\obj\Debug\net8.0-windows\ref\Music School Xml.dll
